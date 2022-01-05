@@ -1,0 +1,50 @@
+body{
+      font-family: 'Lobster', cursive;
+      font-family: 'Playfair Display', serif;
+}
+
+.top-banner{
+      display: flex;
+}
+
+.half-width{
+      width: 50%;
+      padding-left: 5%;
+}
+.half-width img{
+      width: 90%;
+}
+
+h1{
+      font-size:60px;
+      margin-left: 20px;
+}
+.orange-color{
+      color: orange;
+}
+p{
+      font-size: 20px;
+      margin-bottom: 30px;
+      text-align: justify;
+}
+
+.explore-now{
+      text-decoration: none;
+      background-color: #FF5959;
+      padding: 12px 40px;
+      border-radius: 5px;
+      color: white;
+      font-weight: 800;
+}
+
+.about-me{
+      margin-top: 25px;
+}
+
+.header-section{
+      border-left: 10px solid #f84747;
+}
+
+
+
+
