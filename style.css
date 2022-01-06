@@ -9,7 +9,7 @@ body{
 
 .half-width{
       width: 50%;
-      padding-left: 5%;
+      padding-left: 8%;
 }
 .half-width img{
       width: 90%;
@@ -18,6 +18,15 @@ body{
 h1{
       font-size:50px;
       margin-left: 20px;
+      font-weight: bold;
+}
+h2{
+      font-size: 40px;
+      font-weight: bold;
+}
+h4{
+      font-size: 20px;
+      font-weight: bold;
 }
 .orange-color{
       color: orange;
@@ -37,7 +46,7 @@ p{
       font-weight: 800;
 }
 
-.about-me{
+.scroll-down{
       margin-top: 25px;
 }
 
@@ -45,6 +54,137 @@ p{
       border-left: 10px solid #f84747;
 }
 
+.my-target{
+      text-align: center;
+}
+
+.target-detail{
+      display: flex;
+      margin-left: 6%;
+      margin-right: 6%;
+}
+
+.mission{
+      width: 28%;
+      height: 350px;
+      background-color: #faeed2;
+      margin-right: 4%;
+      border-radius: 50px;
+      padding: 0 2%;
+}
+.mission img{
+      width: 45%;
+}
+.target-para{
+      font-size: 18px;
+}
+.vission{
+      width: 28%;
+      height: 350px;
+      background-color: #7abef0;
+      margin-right: 4%;
+      border-radius: 50px;
+      padding: 0 2%;
+}
+.vission img{
+      width: 45%;
+}
+.goal{
+      width: 28%;
+      height: 350px;
+      background-color: #a3d9e6;
+      border-radius: 50px;
+      padding: 0 2%;
+}
+.goal img{
+      width: 45%;
+}
+
+.study-area{
+      display: flex;
+      margin-top: 50px;
+      margin-left: 6%;
+}
+
+.study-image{
+      width:32%;
+}
+
+.study-image img{
+      width: 100%;
+}
+.study-age{
+      width: 60%;
+      height: 350px;
+      padding-left: 70px;
+}
+.study-header{
+      margin-top: 5px;
+      margin-bottom: 2px;
+}
+
+.global-community{
+      display: flex;
+      margin: 5%;
+}
+
+.community-detail{
+      width: 60%;
+      margin-right: 100px;
+}
+
+.community-image{
+      width: 30%;
+}
+.community-image img{
+      width: 100%;
+}
+#facebook{
+      font-weight: bold;
+}
+
+.donation{
+      display: flex;
+      margin-left: 15%;
+}
+
+.sufferer-image{
+      width: 20%px;
+      margin-right: 20px;
+}
+
+.sufferer-detail{
+      width: 65%;
+      margin-left: 30px;
+      margin-right: 20px;
+}
+
+.sufferer-detail img{
+      width: 100%;
+}
+#seffering-people{
+      width: 100%;
+      height: 350px;
+}
+
+footer{
+      width: 100%;
+      height: 200px;
+      background-color: #0B0D17;
+      color: white;
+      margin-top: 30px;
+      padding-top: 30px;
+      text-align: center;
+}
+
+.footer-header{
+      font-family: 'Fira Sans', sans-serif;
+}
+
+.footer-para{
+      font-size: 15px;
+      text-align: center;
+}
 
 
 
